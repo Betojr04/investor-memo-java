@@ -1,0 +1,14 @@
+# Java / Maven / Gradle
+target/
+*.class
+*.jar
+*.war
+.idea/
+.classpath
+.project
+.settings/
+
+# Node / React
+node_modules/
+dist/
+.env
